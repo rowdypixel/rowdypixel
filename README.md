@@ -1,6 +1,4 @@
-Hello, world!
-I'm Dan Walker.
-I am a technical lead and software engineer in the Metro Detroit area.
+I am a technical lead and software engineer who works with .NET in the Metro Detroit area.
 
 You can find me on the web
 - GitHub 👈 You are here!
